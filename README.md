@@ -1,4 +1,6 @@
-# Websites built in the classrooms of year 1
+# Lindfield Year 1 Classes Made A Website
 
+The website is here:
 https://lindfield.website
 
+THe code we wrote is in the 'website' folder above.
