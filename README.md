@@ -3,4 +3,4 @@
 The website is here:
 https://lindfield.website
 
-THe code we wrote is in the 'website' folder above.
+The code we wrote is in the 'website' folder above.
